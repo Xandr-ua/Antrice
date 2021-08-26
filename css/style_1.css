@@ -1095,6 +1095,18 @@ img{
 		display: inline-block;
 	}
 
+	.modalWindow{
+		width: 335px;
+		height: 580px;
+		background: #fff;
+		margin: 90px auto;
+	}
+
+	.modalHeaderImg{
+		height: 115px;
+		background-image: url(../img/modalMob.jpg);
+	}
+
 	.wrap__tehnologi-offers{
 		margin-bottom: 20px;
 	}
